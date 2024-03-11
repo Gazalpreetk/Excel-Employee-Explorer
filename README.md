@@ -1,7 +1,8 @@
 # Excel-Employee-Explorer
 This tool allows users to perform lightning-fast searches across a multitude of employee fields, delivering the desired information at the click of a button.
 
-<img width="950" alt="image" src="https://github.com/Gazalpreetk/Excel-Employee-Explorer/assets/152589633/097cb493-b839-44c5-8cc1-64fa10d73703">
+<img width="952" alt="image" src="https://github.com/Gazalpreetk/Excel-Employee-Explorer/assets/152589633/fa0eda34-536e-4b44-baca-f51aa5a38dee">
+
 
 
 

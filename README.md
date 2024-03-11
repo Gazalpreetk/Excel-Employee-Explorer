@@ -5,11 +5,11 @@ This tool allows users to perform lightning-fast searches across a multitude of 
 
 
 
-Project Overview
+# Project Overview
 
 This repository hosts an advanced Excel-based application designed to streamline the process of managing and searching employee data. Developed with a user-friendly interface, it employs Visual Basic for Applications (VBA) to provide a dynamic and efficient experience for HR departments or small business owners.
 
-Features
+# Features
 
 Dynamic Search: Users can perform searches by various fields, such as Employee ID, Name, Department, Designation, and more, allowing for quick and refined results.
 
@@ -20,7 +20,7 @@ Responsive Design: The form adjusts dynamically to display information and resul
 Security Measures: Built-in features to protect sensitive employee information, demonstrating a commitment to data privacy.
 
 
-Data Structure:
+# Data Structure:
 The application is structured to include a comprehensive dataset of employee information:
 
 Employee ID
@@ -36,6 +36,6 @@ Personal Identifiers (NIC - National Identification Number)
 Gender
 
 
-Customization
+# Customization
 
 The Excel VBA code is modular and documented, allowing for easy customization to adapt to different business requirements or to extend the database schema.

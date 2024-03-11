@@ -12,12 +12,15 @@ This repository hosts an advanced Excel-based application designed to streamline
 Features
 
 Dynamic Search: Users can perform searches by various fields, such as Employee ID, Name, Department, Designation, and more, allowing for quick and refined results.
+
 Data Management: The interface provides options to add, update, and delete employee records, ensuring the database is current and accurate.
+
 Responsive Design: The form adjusts dynamically to display information and results clearly, accommodating various screen sizes and resolutions.
+
 Security Measures: Built-in features to protect sensitive employee information, demonstrating a commitment to data privacy.
 
 
-Data Structure
+Data Structure:
 The application is structured to include a comprehensive dataset of employee information:
 
 Employee ID
